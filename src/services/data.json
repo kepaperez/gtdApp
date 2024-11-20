@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "value": "Buy groceries",
+      "date": "23/02/2023",
+      "group": "Home",
+      "check": true,
+      "state": "inbox",
+      "daily": true
+    },
+    {
+      "id": 2,
+      "value": "Clean the house",
+      "date": "23/02/2023",
+      "group": "Home",
+      "check": false,
+      "state": "todo",
+      "daily": true
+    },
+    {
+      "id": 3,
+      "value": "Finish project report",
+      "date": "23/02/2023",
+      "group": "Work",
+      "check": false,
+      "state": "incubator",
+      "daily": false
+    },
+    {
+      "id": 4,
+      "value": "Call mom",
+      "date": "23/02/2023",
+      "group": "Personal",
+      "check": true,
+      "state": "snooze",
+      "daily": true
+    },
+    {
+      "id": 5,
+      "value": "Exercise",
+      "date": "23/02/2023",
+      "group": "Health",
+      "check": false,
+      "state": "todo",
+      "daily": true
+    },
+    {
+      "id": 6,
+      "value": "Read a book",
+      "date": "23/02/2023",
+      "group": "Leisure",
+      "check": false,
+      "state": "inbox",
+      "daily": false
+    },
+    {
+      "id": 7,
+      "value": "Pay bills",
+      "date": "23/02/2023",
+      "group": "Finance",
+      "check": false,
+      "state": "snooze",
+      "daily": false
+    },
+    {
+      "id": 8,
+      "value": "Plan vacation",
+      "date": "23/02/2023",
+      "group": "Leisure",
+      "check": false,
+      "state": "incubator",
+      "daily": false
+    },
+    {
+      "id": 9,
+      "value": "Schedule dentist appointment",
+      "date": "23/02/2023",
+      "group": "Health",
+      "check": false,
+      "state": "todo",
+      "daily": false
+    },
+    {
+      "id": 10,
+      "value": "Update resume",
+      "date": "23/02/2023",
+      "group": "Work",
+      "check": false,
+      "state": "inbox",
+      "daily": false
+    }
+  ]
