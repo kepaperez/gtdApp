@@ -18,7 +18,13 @@ const HomeScreen = () => {
   return (
     <ContainerWrapper>
       <Text style={styles.h1}>Weekly Goals</Text>
-      <WeeklyGoals/>
+      <View style={{ marginBottom: 15 }}>
+        <View style={{ backgroundColor: colors.blackLigth, width: 330, height: 7, borderRadius: 5 }}>
+          <View style={{ backgroundColor: 'green', width: 250, height: 7, borderRadius: 5 }}>
+          </View>
+        </View>
+      </View>
+      <WeeklyGoals />
       <Text style={styles.h1}>Daily Todos</Text>
       <Text style={styles.h4}>Daily</Text>
       {data && data.map((item) =>
